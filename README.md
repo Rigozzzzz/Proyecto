@@ -45,7 +45,7 @@ body {
    <div class="container">
        <div class="left-column">
            <h1>Rodrigo Robles</h1>
-           <p>Contacto</p>
+           <p>Contacto:</p>
            <p>(+502) 5823-2603</p>
            <p>https://bit.ly/3ypJG5x</p>
            <h2>Objetivo Profesional</h2>
